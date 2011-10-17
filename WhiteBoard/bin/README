@@ -1,0 +1,13 @@
+Whiteboard
+
+Yimin Li
+7/31/01
+
+The additional icons in this version are Arrow and Moving icon. 
+Under the Moving mode, user can move a shape by dragging it using the left mouse button, or can move all selected shapes by draging one of them using the right mouse button. 
+
+About in the Help menu is implemented  to pop up a dialog window showing the version and author name of this program. This dialog window is an instance of MyMessageBox class. This class is also used to pop up the messages when the program can not open file for reading or wirting.
+
+Known bugs:
+
+
